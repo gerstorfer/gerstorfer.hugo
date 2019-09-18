@@ -1,0 +1,23 @@
+baseURL = "https://gerstorfer.github.io/"
+languageCode = "de"
+title = "gerstorfer"
+theme = "hallo"
+copyright = "Everything is mine"
+
+[Author]
+    name = "Dominik Gerstorfer"
+
+[params]
+    [[params.links]]
+        icon  = "github"
+        title = "Github"
+        url   = "https://github.com/gerstorfer"
+#    [[params.links]]
+#        icon  = "twitter"
+#        title = "twitter"
+#        url   = "https://twitter.com/gerstorfer"
+
+[params.colors]
+        background = "#333333"
+        foreground = "#FFFFFF"
+        hover      = "#FF8833"
